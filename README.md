@@ -12,7 +12,7 @@ The functions provided by the `Process Data Report` are listed next:
    - sta_description: **statistical description of a set of variables**
    - variable_type: **separates the variables in the dataset as Numerical / Categorical**
    
-##DEPENDENCIES
+## DEPENDENCIES
 The libraries dependencies of the `Process Data Report` are:
 - pandas                    0.24.2
 - seaborn                   0.9.0
